@@ -1,11 +1,5 @@
 # PartyPay
 
-PayMe!
-
-PartyDebt
-
-PartyPay
-
 
 
 ### Functionality
